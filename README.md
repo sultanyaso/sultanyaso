@@ -32,7 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats: High-Contrast Color
 
 ## 📊 GitHub Stats: High-Contrast Color 📈
 
