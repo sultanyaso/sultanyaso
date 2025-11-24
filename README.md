@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sultanyaso&style=for-the-badge&color=88C0D0" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sultanyaso&style=for-the-badge&color=586e75" alt="Profile views" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Yasir Sultan</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Software+Engineering+Student+at+FAST+Islamabad;Diving+Deep+into+DevOps;Building+Fullstack+Apps+with+React!&font=Fira%20Code&center=true&width=550&height=45&color=88C0D0&vCenter=true&size=20" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Software+Engineering+Student+at+FAST+Islamabad;Diving+Deep+into+DevOps;Building+Fullstack+Apps+with+React!&font=Fira%20Code&center=true&width=650&height=45&color=268bd2&vCenter=true&size=20" alt="Typing Animation" />
 </div>
 
----
+
 
 ## 💡 About Me
 
@@ -16,7 +16,6 @@
 * 🌱 I’m currently focused on **DevOps** methodologies and tools.
 * 💬 Feel free to ask me about **C, C++,** or **React** development!
 * 📧 How to reach me: **sultanyasir990@gmail.com**
-
 <p align="center">
     <img src="https://img.shields.io/badge/Currently%20Learning-DevOps-88C0D0?style=for-the-badge&logo=jenkins&logoColor=white" />
     <img src="https://img.shields.io/badge/Primary%20Stack-C%2F%2FC%2B%2B%20%7C%20React-5E81AC?style=for-the-badge&logo=react&logoColor=white" />
