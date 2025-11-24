@@ -1,12 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Software+Engineering+Student+at+FAST+Islamabad;Diving+Deep+into+DevOps;Building+Fullstack+Apps+with+React!&font=Fira%20Code&center=true&width=750&height=45&color=268bd2&vCenter=true&size=20" alt="Typing Animation" />
-</div>
 
 <h1 align="center">Hi 👋, I'm Yasir Sultan</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Software+Engineering+Student+at+FAST+Islamabad;Diving+Deep+into+DevOps;Building+Fullstack+Apps+with+React!&font=Fira%20Code&center=true&width=650&height=45&color=268bd2&vCenter=true&size=20" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Software+Engineering+Student+at+FAST+Islamabad;Diving+Deep+into+DevOps;Building+Fullstack+Apps+with+React!&font=Fira%20Code&center=true&width=750&height=45&color=268bd2&vCenter=true&size=20" alt="Typing Animation" />
 </div>
+
 
 
 
