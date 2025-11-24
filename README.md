@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Yasir Sultan</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?     lines=A+Passionate+ Software+Engineering+Student+at+FAST+Islamabad;Diving+Deep+into+DevOps;Building+Fullstack+Apps+with+React!&font=Fira%20Code&center=true&width=550&height=45&color=88C0D0&vCenter=true&size=20" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Software+Engineering+Student+at+FAST+Islamabad;Diving+Deep+into+DevOps;Building+Fullstack+Apps+with+React!&font=Fira%20Code&center=true&width=550&height=45&color=88C0D0&vCenter=true&size=20" alt="Typing Animation" />
 </div>
 
 ---
@@ -32,34 +32,17 @@
 
 ---
 
-
----
-
 ## 📊 GitHub Stats: High-Contrast Color 📈
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sultanyaso&show_icons=true&locale=en&theme=nord&title_color=88C0D0&icon_color=88C0D0&hide_border=true" 
-    alt="Yasir's GitHub Stats" 
-    width="400" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sultanyaso&show_icons=true&locale=en&theme=nord&title_color=88C0D0&icon_color=88C0D0&hide_border=true" alt="Yasir's GitHub Stats" width="48%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanyaso&show_icons=true&locale=en&layout=compact&theme=nord&title_color=88C0D0&icon_color=88C0D0&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanyaso&show_icons=true&locale=en&layout=compact&theme=nord&title_color=88C0D0&icon_color=88C0D0&hide_border=true" 
-    alt="Top Languages" 
-    width="400" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanyaso&theme=nord&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sultanyaso&theme=nord&hide_border=true" 
-    alt="GitHub Streak" 
-  />
-</p>
-
 ---
 
 ## 🔗 Connect with Me
