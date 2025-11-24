@@ -33,17 +33,33 @@
 ---
 
 
+---
+
 ## 📊 GitHub Stats: High-Contrast Color 📈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sultanyaso&show_icons=true&locale=en&theme=nord&title_color=88C0D0&icon_color=88C0D0&hide_border=true" alt="Yasir's GitHub Stats" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanyaso&show_icons=true&locale=en&layout=compact&theme=nord&title_color=88C0D0&icon_color=88C0D0&hide_border=true" alt="Top Languages" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sultanyaso&show_icons=true&locale=en&theme=nord&title_color=88C0D0&icon_color=88C0D0&hide_border=true" 
+    alt="Yasir's GitHub Stats" 
+    width="400" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanyaso&theme=nord&hide_border=true" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanyaso&show_icons=true&locale=en&layout=compact&theme=nord&title_color=88C0D0&icon_color=88C0D0&hide_border=true" 
+    alt="Top Languages" 
+    width="400" 
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sultanyaso&theme=nord&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+</p>
+
 ---
 
 ## 🔗 Connect with Me
