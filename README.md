@@ -14,7 +14,7 @@
 
 * 🎓 I'm a passionate **Software Engineering student** at **FAST Islamabad**.
 * 🌱 I’m currently focused on **DevOps** methodologies and tools.
-* 💬 Feel free to ask me about **C, C++,** or **React** development!
+* 💬 Feel free to ask me about **C, C++, React, Node.js, Docker, Kubernetes**.
 * 📧 How to reach me: **sultanyasir990@gmail.com**
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats: High-Contrast Color 📈
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sultanyaso&show_icons=true&locale=en&theme=dark&title_color=268bd2&icon_color=268bd2&hide_border=true" alt="Yasir's GitHub Stats" width="48%" />
