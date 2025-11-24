@@ -32,7 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats: High-Contrast Color
 
 ## 📊 GitHub Stats: High-Contrast Color 📈
 
@@ -45,10 +44,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanyaso&theme=nord&hide_border=true" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanyaso&theme=nord&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🔗 Connect with Me
