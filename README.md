@@ -34,6 +34,8 @@
 
 ## 📊 GitHub Stats: High-Contrast Color
 
+## 📊 GitHub Stats: High-Contrast Color 📈
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sultanyaso&show_icons=true&locale=en&theme=nord&title_color=88C0D0&icon_color=88C0D0&hide_border=true" alt="Yasir's GitHub Stats" width="48%" />
   &nbsp;&nbsp;
@@ -43,7 +45,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanyaso&theme=nord&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ## 🔗 Connect with Me
