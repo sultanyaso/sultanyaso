@@ -59,4 +59,4 @@
 
 <br>
 
-<h4 align="center">⚡ Fun fact: Always learning something new in tech! 🧠💡</h4>
+<h4 align="center">⚡ Fun fact: 💡 Concepts over syntax • Logic over memorization. </h4>
