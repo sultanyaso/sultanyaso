@@ -37,13 +37,14 @@
 ---
 
 ## 📊 Analytics & Coding Habits
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sultanyaso&show_icons=true&theme=nord" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanyaso&layout=compact&theme=nord" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sultanyaso&show_icons=true&theme=nord" width="48%" alt="Main Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanyaso&layout=compact&theme=nord" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanyaso&theme=nord" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanyaso&theme=nord" width="100%" alt="Streak Stats" />
 </p>
 
 ---
