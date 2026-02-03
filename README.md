@@ -43,8 +43,22 @@
 
 ## 📈 Activity Graph
 
+## 🚀 Live Contribution Pulse
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sultanyaso&theme=nord-bright&area=true&hide_border=false" width="100%" alt="Yasir's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sultanyaso&theme=nord-bright&area=true&hide_border=false&point_size=5" width="100%" alt="Yasir's Live Activity" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Live%20Updates-brightgreen?style=flat-square&logo=github" /> 
+  <img src="https://img.shields.io/github/last-commit/sultanyaso/sultanyaso?style=flat-square&label=Last%20Profile%20Update&color=88C0D0" />
+</p>
+
+---
+
+## 🕒 Weekly Coding Hours (Real-Time)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sultanyaso&layout=compact&theme=nord&display_name=true&langs_count=6" alt="WakaTime Stats" />
 </p>
 
 ## 🔗 Connect with Me
