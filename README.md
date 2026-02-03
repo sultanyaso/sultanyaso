@@ -11,10 +11,24 @@
 </p>
 
 ## 💡 About Me
-* 🎓 **Software Engineering student** at **FAST Islamabad**.
-* 🌱 Focused on **DevOps** (Docker, Kubernetes, CI/CD).
-* 💬 Ask me about **C/C++** or **React**.
-* 📧 Reach me: **sultanyasir990@gmail.com**
+
+<table align="center">
+  <tr>
+    <td width="70%" style="vertical-align: top;">
+      <ul>
+        <li>🎓 I'm a passionate <b>Software Engineering student</b> at <b>FAST Islamabad</b>.</li>
+        <li>🌱 I’m currently focused on <b>DevOps</b> methodologies and tools (Docker, K8s, CI/CD).</li>
+        <li>💬 Feel free to ask me about <b>C, C++,</b> or <b>React</b> development!</li>
+        <li>📧 How to reach me: <b>sultanyasir990@gmail.com</b></li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVr9W5RIc/giphy.gif" width="150px" alt="Coding Illustration" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ---
 
