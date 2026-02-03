@@ -34,8 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Live%20Updates-brightgreen?style=flat-square&logo=github" /> 
-  <img src="https://img.shields.io/github/last-commit/sultanyaso/sultanyaso?style=flat-square&label=Last%20Update&color=88C0D0" />
+  <img src="https://raw.githubusercontent.com/sultanyaso/sultanyaso/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -44,7 +43,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sultanyaso&show_icons=true&theme=nord&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanyaso&layout=compact&theme=nord&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanyaso&theme=nord&layout=compact&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
