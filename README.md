@@ -41,6 +41,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanyaso&theme=nord&hide_border=true" alt="GitHub Streak" />
 </p>
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sultanyaso&theme=nord-bright&area=true&hide_border=false" width="100%" alt="Yasir's Contribution Graph" />
+</p>
 
 ## 🔗 Connect with Me
 
