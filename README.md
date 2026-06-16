@@ -69,4 +69,4 @@
   <a href="https://instagram.com/yasir.sultan.11"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
 </p>
 
-<h4 align="center">⚡ Fun fact: Concepts over syntax • Logic over memorization. </h4>
+<h4 align="center">⚡ Fun fact: Concepts over syntax • Logic over memorization. </h4> 
